@@ -1,1 +1,1 @@
-# high-speed-latched-comparator
+# dynamic high-speed-latched-comparator
